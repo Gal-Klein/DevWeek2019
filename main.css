@@ -1,0 +1,60 @@
+.header {
+    background-color    : rgba(255,255,255,0.0);
+    font-family         : "Lato", Helvetica, Arial, serif;
+    font-weight         : 400;
+    font-style          : normal;
+    font-size           : 18.0px;
+    color               : rgba(0, 0, 0, 1.0);
+    text-align          : left;
+    line-height         : 22.0px;
+    clear: both;
+  }
+  .button {
+    background-color    : rgba(255,255,255,0.0);
+    margin              : 10px;
+    padding: 5px;
+    border-radius: 3px;
+    border: 2px solid #E40486;
+    height: 20px;
+    font-family         : "Lato", Helvetica, Arial, serif;
+    font-weight         : 400;
+    font-style          : normal;
+    font-size           : 14.0px;
+    vertical-align      : middle;
+    cursor              :pointer;
+    float: left;
+  }
+  .selected {
+    background-color    : #E40486;
+    margin              : 10px;
+    padding: 5px;
+    border-radius: 3px;
+    border: 2px solid #E40486;
+    height: 20px;
+    font-family         : "Lato", Helvetica, Arial, serif;
+    font-weight         : bold;
+    font-style          : normal;
+    font-size           : 14.0px;
+    color: white;
+    vertical-align: middle;
+    cursor              :pointer;
+    float: left;
+  }
+
+  .submit {
+    background-color    : #E40486;
+    margin              : 10px;
+    padding: 10px;
+    border-radius: 3px;
+    border: 2px solid #E40486;
+    height: 30px;
+    width: 300px;
+    font-family         : "Lato", Helvetica, Arial, serif;
+    font-weight         : bold;
+    font-style          : normal;
+    font-size           : 22.0px;
+    color: white;
+    vertical-align: middle;
+    cursor              :pointer;
+    clear: both;
+  }
